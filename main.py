@@ -1,4 +1,3 @@
-from functools import WRAPPER_ASSIGNMENTS
 import re
 
 
